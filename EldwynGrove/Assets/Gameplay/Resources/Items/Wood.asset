@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 761f079cbb4a7bb479fa1bf666ab01d1, type: 3}
+  m_Name: Wood
+  m_EditorClassIdentifier: 
+  m_itemID: 95ddc85c-d697-49d6-8767-9bd5fe5e0c4a
+  m_itemName: Wood
+  m_itemDescription: Once stood tall. Now... a stick.
+  m_itemIcon: {fileID: -1930957567, guid: cf271f21224a69d42988a25cae8cd78a, type: 3}
+  m_isStackable: 1
+  m_category: 1
